@@ -21,7 +21,3 @@ function displayUpdatedAgent(agent) {
         console.error('Paragraph element not found');
     }
 }
-
-document.addEventListener('DOMContentLoaded', function() { 
-    displayUpdatedAgent(updatedAgent); 
-});
